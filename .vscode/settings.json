@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "m.h": "c",
+        "app_openrobot_easycat.h": "c",
+        "app_vescuino_spi.h": "c",
+        "app_vescuino.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "lis302dl.h": "c"
+    }
+}
